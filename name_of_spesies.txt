@@ -1,0 +1,15 @@
+(1) q_sarpagandha
+(2) q_ashwagandha
+(3) q_shatavari
+(4) q_doddapatre
+(5) q_wild_marjoram
+(6) q_lemongrass
+(7) q_guduchi
+(8) q_puzzlegrass
+(9) q_bhringaraj
+(10) q_pudina
+(11) q_mehandi
+(12) q_lolesara
+(13) q_tulsi
+(14) q_brahmi
+(15) q_dasavala
